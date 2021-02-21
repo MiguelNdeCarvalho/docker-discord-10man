@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/miguelndecarvalho/docker-miguelndecarvalho-repo:latest
+          tags: ghcr.io/miguelndecarvalho/docker-discord-10man:latest
