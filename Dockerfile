@@ -1,4 +1,4 @@
-FROM python:3.8.8-slim-buster
+FROM python:3.9.4-slim-buster
 
 RUN echo "- install packages -" && \
     apt-get update && \
